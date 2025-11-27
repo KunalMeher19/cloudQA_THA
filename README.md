@@ -199,6 +199,6 @@ For any issues, ensure Chrome and ChromeDriver versions are compatible (auto-han
 
 ---
 
-**Project by:** [Your Name]  
+**Project by:** Ardhendu Abhishek Meher 
 **Assignment for:** CloudQA Developer Internship  
 **Date:** November 2025
